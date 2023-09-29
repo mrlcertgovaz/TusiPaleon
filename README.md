@@ -1,4 +1,4 @@
-# TusiPaleon
+# Tusi Paleon
 Lightweight Malware Forensic Tool
 According to our experience, two of the most important problems that we encounter during cyber incidents are tools that are used to gather information to find the "intruder/malware" and the actual waste of time to do that. As collecting system data using various tools, analyzing it, obtaining results and reporting them to the victim is a laborious and time consuming process. Furthermore, sometimes collecting data while using several tools simultaniously can create several diffuculties. 
 
